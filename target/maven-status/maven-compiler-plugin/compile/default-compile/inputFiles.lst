@@ -1,0 +1,6 @@
+E:\java\springboot-rabbitmq-example\src\main\java\com\javatechie\rabbitmq\demo\dto\Order.java
+E:\java\springboot-rabbitmq-example\src\main\java\com\javatechie\rabbitmq\demo\consumer\User.java
+E:\java\springboot-rabbitmq-example\src\main\java\com\javatechie\rabbitmq\demo\publisher\OrderPublisher.java
+E:\java\springboot-rabbitmq-example\src\main\java\com\javatechie\rabbitmq\demo\dto\OrderStatus.java
+E:\java\springboot-rabbitmq-example\src\main\java\com\javatechie\rabbitmq\demo\config\MessagingConfig.java
+E:\java\springboot-rabbitmq-example\src\main\java\com\javatechie\rabbitmq\demo\SpringbootRabbitmqExampleApplication.java
